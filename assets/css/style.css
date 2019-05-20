@@ -8,42 +8,14 @@ ol, ul {list-style: none; padding:0 !important;}
 
 
 
-
+.logo {margin:40% 0 10% 0;}
 .ptb1 {padding:1rem 0;}
-.plr2 {padding:0 2rem;}
 .mtb1 {margin:1rem 0;}
 .mtb2 {margin:2rem 0;}
 .mb5 {margin:0 0 5rem 0;}
 
-.navbar {width:100%;}
-.logo {width:70%;}
-
-.container-toggle {width:auto; height:auto; background:yellow; float:right;}
-.bar1, .bar2 {width:40px; height:4px; background:black; margin:4px 0; border-radius:100px;}
-.bar3 {width:20px; height:4px; background:black; border-radius:100px;}
 
 
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%; 
-  min-height: 100%;
-}
-
-
-/*
-.change .bar1 {
-  -webkit-transform: rotate(-45deg) translate(-9px, 6px);
-  transform: rotate(-45deg) translate(-9px, 6px);
-}
-
-.change .bar2 {opacity: 0;}
-
-.change .bar3 {
-  -webkit-transform: rotate(45deg) translate(-8px, -8px);
-  transform: rotate(45deg) translate(-8px, -8px);
-}
 
 
 
